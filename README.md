@@ -89,6 +89,6 @@ Context-aware conversational AI assistant with a real-time Streamlit UI.
 
 ---
 
-*"Still learning. Still building. Always shipping."*
+*"Still learning. Still building."*
 
 
