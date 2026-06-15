@@ -15,6 +15,7 @@ AI, and embedded systems. Currently open to full-time Software Engineer / SDE ro
 -  Built 3 end-to-end projects across **Full Stack**, **AI/ML**, and **IoT** domains
 -  Based in **Delhi NCR** — open to relocation
 -  Reach me at: adityakumarray2020@gmail.com
+-  Portfolio [https://Aadityayadav02.github.io/aditya-portfolio]
   
 ---
 
