@@ -11,9 +11,9 @@ AI, and embedded systems. Currently open to full-time Software Engineer / SDE ro
 ## About Me
 
 -  B.Tech CSE Graduate | Dr. C.V. Raman University, Vaishali (2026)
--  Former intern @ **Rays Edu Tech Pvt Ltd** — built features, fixed bugs, shipped on time
--  Built 3 end-to-end projects across **Full Stack**, **AI/ML**, and **IoT** domains
--  Based in **Delhi NCR** — open to relocation
+-  Former intern @ Rays Edu Tech Pvt Ltd — built features, fixed bugs, shipped on time
+-  Built 3 end-to-end projects across Full Stack
+-  Based in BIHAR — open to relocation
 -  Reach me at: adityakumarray2020@gmail.com
 -  Portfolio [https://Aadityayadav02.github.io/aditya-portfolio]
   
@@ -28,14 +28,14 @@ AI, and embedded systems. Currently open to full-time Software Engineer / SDE ro
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**AI / IoT**
+AI / IoT
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3-412991?style=flat&logo=meta&logoColor=white)
@@ -44,7 +44,7 @@ AI, and embedded systems. Currently open to full-time Software Engineer / SDE ro
 
 ## Featured Projects
 
-### IoT-Based Smart Irrigation System
+IoT-Based Smart Irrigation System
 > Python · ESP8266 · Arduino · MQTT · SQLite3 · REST API
 
 Automated irrigation using real-time soil moisture, temperature & humidity sensors.
@@ -55,7 +55,7 @@ Pumps trigger autonomously via threshold logic — no human intervention needed.
 
 ---
 
-###  Complaint Management System
+Complaint Management System
 > Python · Flask · JavaScript · Bootstrap · SQLite3
 
 Full-stack grievance portal for university use with role-based access (student / staff / admin).
